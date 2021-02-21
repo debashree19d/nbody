@@ -95,6 +95,7 @@ Then use Cmake
 cmake ..
 
 u:~/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried$ cmake ..
+##
 -- The C compiler identification is GNU 7.4.0
 -- The CXX compiler identification is Clang 12.0.0
 -- Check for working C compiler: /usr/bin/cc
@@ -112,6 +113,8 @@ u:~/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried$ cmake ..
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/u/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried
+
+##
 
 Building the file
 make
