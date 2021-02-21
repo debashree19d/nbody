@@ -87,16 +87,16 @@ for (int i = 0; i < get_npart(); ++i) {
      
      
    ## Running the Sample
-   To run the program in Devcloud
-mkdir <dir-name>
-Get inside the directory
-cd <dir-name>
-Then use Cmake
-cmake ..
+### To run the program in Devcloud
+### mkdir <dir-name>
+### Get inside the directory
+### cd <dir-name>
+###Then use Cmake
+### cmake ..
 
-u:~/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried$ cmake ..
+### u:~/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried$ cmake ..
 ##
--- The C compiler identification is GNU 7.4.0
+### -- The C compiler identification is GNU 7.4.0
 -- The CXX compiler identification is Clang 12.0.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -112,21 +112,21 @@ u:~/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried$ cmake ..
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/u/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried
+### -- Build files have been written to: /home/u/oneAPI-samples/DirectProgramming/DPC++/N-BodyMethods/Nbody/fried
 
 ##
 
-Building the file
-make
-Scanning dependencies of target nbody
+### Building the file
+### make
+### Scanning dependencies of target nbody
 [ 33%] Building CXX object src/CMakeFiles/nbody.dir/GSimulation.cpp.o
 [ 66%] Building CXX object src/CMakeFiles/nbody.dir/main.cpp.o
 [100%] Linking CXX executable nbody
-[100%] Built target nbody
+### [100%] Built target nbody
 
-running the application
+### running the application
 
-make run
+### make run
 
 Scanning dependencies of target run
 ===============================
