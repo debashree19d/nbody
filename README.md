@@ -159,9 +159,10 @@ Scanning dependencies of target run
 # Total Time (s)     : 3.1648
 # Average Performance : 438.08 +- 7.5355
 ===============================
-Built target run
+Built target runimension
+
 
 ## Summary
-Increased G-Flops
-Added 4th zdimension
-Simulation starting point 32000
+# Increased G-Flops
+# Added 4th dimension
+# Simulation starting point 32000
