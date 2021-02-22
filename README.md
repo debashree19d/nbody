@@ -88,6 +88,7 @@ for (int i = 0; i < get_npart(); ++i) {
      
    ## Running the Sample
 ### To run the program in Devcloud
+unzip the zip file
 ### mkdir <dir-name>
 ### Get inside the directory
 ### cd <dir-name>
