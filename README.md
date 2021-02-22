@@ -9,6 +9,13 @@ Nbody sample code simulates 32000 particles and for ten integration steps. Each 
 
 ## Key Implementation Details
 The basic DPC++ implementation explained in the code includes device selector, buffer, accessor, kernel, and command groups.
+## The Learning experience(new app)
+##Good
+Good amount of examples
+Very good way to get started with Samples
+##Bad
+Learning curve is steep
+Devcloud is slow at times
 
 ## Extending the Sample
 Adding a superficial 4th dimension for the N-body Simulation
